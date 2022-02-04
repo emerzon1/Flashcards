@@ -1,0 +1,32 @@
+* {
+	background-color: #eee !important;
+}
+
+.menu .item {
+	font-size: 1.575rem !important;
+	cursor: pointer !important;
+
+	font-weight: 400 !important;
+	-webkit-letter-spacing: normal;
+	-moz-letter-spacing: normal;
+	-ms-letter-spacing: normal;
+	letter-spacing: normal;
+
+	line-height: 1.125rem !important;
+}
+.menu .item.siteHeader {
+	font-size: 1.875rem !important;
+	background-color: initial;
+	border: none;
+	color: #4255ff !important;
+	cursor: pointer !important;
+	display: inline !important;
+
+	font-weight: 600 !important;
+	-webkit-letter-spacing: normal;
+	-moz-letter-spacing: normal;
+	-ms-letter-spacing: normal;
+	letter-spacing: normal;
+
+	line-height: 1.125rem !important;
+}
